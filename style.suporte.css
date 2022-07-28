@@ -1,0 +1,62 @@
+
+.logo{
+    height: 40px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+body{
+    font-size: 80%;
+}
+
+.titulo{
+    align-content: center;
+}
+
+.main{
+    width: 100vw;
+    height: 50vh;
+    background: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    width: 200px;
+    height: 230px;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    box-shadow: #dde0e3;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+    transition: transform 0.5s;
+    text-decoration: none;
+    align-items: center;
+}
+
+.card h4{
+    text-decoration: none;
+    color: black;
+}
+
+.card:hover{
+    transform: translateY(-10px);
+}
+
+.Contactos{
+    padding-left: 200px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+
+i{
+
+}

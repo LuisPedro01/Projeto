@@ -1,0 +1,64 @@
+.logo{
+    height: 40px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+body{
+    font-size: 80%;
+}
+
+.main{
+    width: 100vw;
+    height: 60vh;
+    background: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.button{
+    padding-left: 50px;
+}
+
+.titulo{
+    height: 80px;
+    padding-left: 50px;
+}
+
+.faqs{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-height: 300px;
+    margin-bottom: 15px;
+}
+
+.pergunta1{
+    margin-bottom: 15px;
+    padding-left: 50px;
+}
+
+.pergunta2{
+    margin-bottom: 15px;
+    padding-left: 50px;
+}
+
+.pergunta3{
+    margin-bottom: 15px;
+    padding-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

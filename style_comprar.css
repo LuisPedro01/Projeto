@@ -1,0 +1,60 @@
+.logo{
+    height: 40px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+body{
+    font-size: 80%;
+}
+
+.main{
+    width: 100vw;
+    height: 20vh;
+    background: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    background: #ffffff;
+    margin: 60px 0;
+}
+
+.exemplo{
+    width:200px;
+    height:200px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.exemplo1{
+    width:200px;
+    height:200px;
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+    alignment: right;
+}
+
+.botoes{
+    height: 90%;
+    margin: 10px;
+    margin-top: 100px;
+
+}
+
+.row{
+    height: 90%;
+    margin: 20px;
+}
+
+.titulo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
