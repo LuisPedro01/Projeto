@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <title>HOME</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="fontawesome-free-5.15.4-desktop">
+    <title>Imóveis</title>
+    <link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../imovel1_venda.css">
     <script src="https://kit.fontawesome.com/6599c21e84.js" crossorigin="anonymous"></script>
+
 </head>
+
 <body>
 
 <!--------------- Header -------------------->
@@ -26,15 +28,14 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href="../index.html">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="html/suporte.html">Suport</a>
+                        <a class="nav-link" href="suporte.html">Suport</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="html/imoveis.html">Imóveis</a>
+                        <a class="nav-link" href="imoveis.html">Imóveis</a>
                     </li>
-
                 </ul>
             </div>
         </div>
@@ -43,42 +44,52 @@
 </div>
 
 
-<!--------------- MAIN -------------------->
-<div class="main">
-    <div class="backgound">
-    <img src="fotos/home.jpg" class="home" alt="home">
-</div>
-</div>
 
-    <section class="page-contain">
-        <a href="html/suporte.html" class="data-card">
-            <h3><i class="fas fa-question-circle"></i></h3>
-            <h4>Suporte</h4>
-            <p>Suporte da nossa equipa.</p>
-            <span class="link-text">
-      Suporte
-      <svg width="25" height="16" viewBox="0 0 25 16" fill="none">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M17.8631 0.929124L24.2271 7.29308C24.6176 7.68361 24.6176 8.31677 24.2271 8.7073L17.8631 15.0713C17.4726 15.4618 16.8394 15.4618 16.4489 15.0713C16.0584 14.6807 16.0584 14.0476 16.4489 13.657L21.1058 9.00019H0.47998V7.00019H21.1058L16.4489 2.34334C16.0584 1.95281 16.0584 1.31965 16.4489 0.929124C16.8394 0.538599 17.4726 0.538599 17.8631 0.929124Z" fill="#753BBD"/>
-</svg>
-    </span>
-        </a>
-        <a href="html/imoveis.html" class="data-card">
-            <h3><i class="fas fa-home"></i></h3>
-            <h4>Imóveis</h4>
-            <p>Visualize os imóveis disponiveis.</p>
-            <span class="link-text">
-      Ver Imóveis
-      <svg width="25" height="16" viewBox="0 0 25 16" fill="none">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M17.8631 0.929124L24.2271 7.29308C24.6176 7.68361 24.6176 8.31677 24.2271 8.7073L17.8631 15.0713C17.4726 15.4618 16.8394 15.4618 16.4489 15.0713C16.0584 14.6807 16.0584 14.0476 16.4489 13.657L21.1058 9.00019H0.47998V7.00019H21.1058L16.4489 2.34334C16.0584 1.95281 16.0584 1.31965 16.4489 0.929124C16.8394 0.538599 17.4726 0.538599 17.8631 0.929124Z" fill="#753BBD"/>
-</svg>
-    </span>
-        </a>
+<!--------------- Main -------------------->
+<div class="container">
+    <div class="row">
+        <div class="col-xs-4 item-photo">
+            <img src="../fotos/exemplo.jpeg" class="exemplo1" alt="exemplo1">
+        </div>
+        <div class="col-xs-5" style="border:0px solid gray">
+            <!-- Dados do vendedor e titulo do produto -->
+            <h3>T3 em Vila Real</h3>
+            <h5 style="color:#337ab7">Vendido por <a href="#">Nome cliente</a></h5>
+
+            <!-- Preço -->
+            <h6 class="title-price"><small>Preço</small></h6>
+            <h3 style="margin-top:0px;">€€€€€€€€</h3>
+
+            <!-- Detalhes do produto -->
+            <div class="card" style="width: 18rem;">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item">Tipologia T2</li>
+                    <li class="list-group-item">Nome do proprietário</li>
+                    <li class="list-group-item">Contacto</li>
+                </ul>
+            </div>
+        </div>
 
 
-    </section>
+        <!-- Descriçao do produto -->
+        <div class="col-xs-9">
+            <ul class="menu-items">
+                <li class="active">Descrição do imóvel</li>
+            </ul>
+            <div style="width:100%;border-top:1px solid silver">
+                <p style="padding:15px;">
+                    <small>
+                        Imóvel perto de boas zonas, boas áreas.
+                    </small>
+                </p>
 
+            </div>
+        </div>
+    </div>
 </div>
-</div>
+
+
+
 <!--------------- FOOTER -------------------->
 
 <div class="footer">
