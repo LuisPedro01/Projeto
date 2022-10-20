@@ -1,0 +1,53 @@
+A evolução das tecnologias impulsionou a nova era dos dispositivos móveis atuais, houve um aumento das funcionalidades possíveis neste tipo de dispositivos. 
+Esta evolução das tecnologias levou a atualmente utilizarmos os dispositivos móveis para inúmeras funcionalidades ou aplicações que permitem ajudar-nos no dia-a-dia, de diversas formas.
+
+O Estado da Arte foca-se essencialmente nos seguintes pontos:
+- Evolução tecnologica
+- Usabilidade das aplicações móveis
+- Aplicações móveis/tecnologias no setor da apicultura
+- Aplicações móveis com funcionalidades/controlos de voz
+
+
+-> Evolução tecnologica
+
+Ao longo dos anos, o crescimento tecnologico tem vindo a ser exponencial e os nossos dispositivos móveis são um grnade exemplo disso. Essa evolução possibilitou a atualmente os nossos dispositivos terem inúmeras funcionalidades e ainda terem a possibilidade de executarem aplicações de treceiros.
+
+Há alguns anos, era inimaginável considerar que se pudessem realizar chamadas de vídeo, com uma ou varias pessoas ou simultaneo, ou até mesmo que a impressão digital pudesse ser lida pelo nosso dispositivo, possibilitando infinitas opções de conhecimento.
+
+Nos ultimos anos, o surgimento de telefones inteligentes mudou a definição de telemóveis. Os telemoveis hoje em dia deixaram de ser apenas uma ferramenta de comunicação mas sim uma parte essencial da comunicação e da nossa vida quotidiana.
+
+A utilização de telemóveis tem vindo a aumentar drasticamente ao longo dos últimos anos. (Gandhewar et al., 2010) O mesmo autor refere ainda que os dispositivos móveis têm aproximadamente 3,5 vezes mais uso do que computadores pessoais, o que não é algo que nos surpreenda, uma vez que hoje em dia, naior parte das pessoas faz mais uso de um telemóvel do que de um computador, bem como as suas caracteristicas, hoje em dia, permitem que estes dispositivos não tenham limites.
+
+
+Os Smartphones modernos acrescentam muitas das funcionalidades de um computador, unidades de alta velocidade de processamento central (CPU) e unidades de processamento gráfico (GPU), grande espaço de armazenamento, ecrãs e camaras de alta resolução, etc
+
+
+
+-> Usabilidade das aplicações móveis
+
+Uma aplicação, hoje em dia, a principal preocupação é o tamanho do ecrã, por isso é necessario adotar alguns mecanismos que nao tornem a sua utilização aborrecida.
+
+ -Aplicaçoes web
+As aplicaçoes web sao na realidade web sites otimatizados para dispositivos móveis e que apresentam uma experiencia semelhante às aplicaçoes nativas, mas o seu acesso a ser feito atraves de computador (navegadores da Internet).
+
+
+
+
+-> Aplicaçoes móveis/tecnologias no setor da apicultura
+
+
+
+
+-> Aplicações móveis com funcionalidades/controlos de voz
+
+
+
+
+
+
+
+
+
+
+
+
